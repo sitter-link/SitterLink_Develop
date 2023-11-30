@@ -1,0 +1,22 @@
+{
+    "appName": "Template",
+    "routeNotFound": "Route Not Found",
+    "loading": "Loading",
+    "unexpectedErrorOccured": "Unexpected Error Occured",
+    "auth": {
+        "email": "Email",
+        "password": "Password",
+        "phoneNumber": "Phone Number",
+        "confirmPassword": "Confirm Password",
+        "login": "Login",
+        "loggedInSuccessfully": "Logged In Successfully",
+        "loggedOutSuccessfully": "Logged Out Successfully"
+    },
+    "validationMessage": {
+        "pleaseEnterValidField": "Please eneter valid {}",
+        "fieldCannotBeEmpty": "{} field cannot be empty",
+        "invalidPasswordMessage": "Make sure your {} must be atLeast {} letters long.",
+        "doesnotMatch": "{} doesnot match",
+        "enterValidPhoneNumber": "Please enter valid phone number"
+    }
+}
